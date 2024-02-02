@@ -1,0 +1,10 @@
+#root {
+  min-width: 1440px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.main-container {
+  margin-left: 245px;
+  margin-bottom: 100px;
+}
